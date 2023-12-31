@@ -30,6 +30,12 @@ Welcome to the Selection Sort Visualization repository! This project showcases a
    - **Special Features:**
      - Interactive user prompts guide the user through the process.
      - Display of the final sorted array with a thank you message.
+    
+## Selection Sort Visualization Screenshot
+
+![Screenshot 2023-12-31 154115](https://github.com/Adi30TyaDTU/Selection-Sorting-Animation/assets/128904617/b3b1c54d-8563-4c99-97bb-a068da9fb24a)
+
+
 
 ## Video Demonstration
 Click [here](https://drive.google.com/file/d/12_21zNZ7hxH9bVnyLSP41QtK3xrgy2iD/view?usp=drive_link) to watch a demonstration of the code.
